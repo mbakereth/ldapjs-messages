@@ -1,4 +1,4 @@
-# @mbakereth/ldap-messages
+# @mbakereth/ldapjs-messages
 
 Provides methods and objects to represent LDAP messages.
 
